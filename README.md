@@ -2,7 +2,7 @@
 
 ### Um ***desafio*** prático, com mentorias, apoio técnico para que seu ***desenvolvimento***, além do fornecimento de materiais diversos para o ***aprendizado*** e crescimento ***profissional***.  
 
-### A competição tem com o objetivo de selecionar dois engenheiros de software junior, sendo um para front e outro para back-end, sendo avaliados em duas etapas, sendo a primeira ocorrendo junto da inscrição.
+### A competição tem com o objetivo de selecionar dois engenheiros de software junior, sendo um para front e outro para back-end, avaliados em duas etapas, a primeira ocorrendo junto da inscrição.
 
 ##### OBS: Somente presencial e residente na grande Cuiabá(Cuiabá e Várzea Grande).
 

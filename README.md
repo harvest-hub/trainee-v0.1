@@ -4,7 +4,7 @@ Um desafio prático, com mentorias, apoio técnico para que ***seu*** desenvolvi
 
 A competição tem ***como*** objetivo, selecionar dois engenheiros de software junior, sendo um para front e outro para back-end, avaliados em duas etapas, a primeira ***ocorrerá juntamente com a inscrição.***
 
-OBS: Somente presencial e residentes em Cuiabá e Várzea Grande
+***Obs:.*** Somente presencial e residentes ***em Cuiabá e Várzea Grande.***
 
 Para saber mais sobre a competição, * inscrição e acessar o primeiro desafio, ***Clique*** nos links abaixo, boa sorte!
 

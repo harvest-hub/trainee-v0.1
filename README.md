@@ -12,7 +12,7 @@
 - [📑 Descrição das vagas](https://github.com/connectmindset/trainee-v0.1/wiki/%F0%9F%93%91-Descri%C3%A7%C3%A3o-das-vagas)
 - [📝 Inscrição completa](https://www.sympla.com.br/1-trainee-connect-mindset__780777)
 - [👩‍💻 👨‍💻 Primeiro desafio](https://github.com/connectmindset/trainee-v0.1/wiki/%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB-%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-Primeiro-desafio)
-- [❔ Para qualquer duvida ou problema, crie uma issue](https://github.com/connectmindset/trainee-v0.1/issues/new)
+- [❔ Para qualquer dúvida ou problema, crie uma issue](https://github.com/connectmindset/trainee-v0.1/issues/new)
 
 
 #### 🚧 ***Não tenha medo de tentar, mas tenha vontade de aprender.*** 🚧

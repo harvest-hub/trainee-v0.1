@@ -1,4 +1,4 @@
-# 1º Trainee Connect Mindset
+# 🏆 1º Trainee Connect Mindset
 
 Um desafio prático, com mentorias, apoio técnico para que ***seu*** desenvolvimento, além do fornecimento de materiais diversos para o aprendizado e crescimento profissional.  
 

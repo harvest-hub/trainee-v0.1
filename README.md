@@ -1,6 +1,6 @@
 # 1º Trainee Connect Mindset
 
-Um desafio prático, com mentorias, apoio técnico para que ***seu** desenvolvimento, além do fornecimento de materiais diversos para o aprendizado e crescimento profissional.  
+Um desafio prático, com mentorias, apoio técnico para que ***seu*** desenvolvimento, além do fornecimento de materiais diversos para o aprendizado e crescimento profissional.  
 
 A competição tem ***como*** objetivo, selecionar dois engenheiros de software junior, sendo um para front e outro para back-end, avaliados em duas etapas, a primeira ***ocorrerá juntamente com a inscrição.***
 

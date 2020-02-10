@@ -6,7 +6,7 @@ A competição tem ***como*** objetivo, selecionar dois engenheiros de software 
 
 ***Obs:.*** Somente presencial e residentes ***em Cuiabá e Várzea Grande.***
 
-Para saber mais sobre a competição, * inscrição e acessar o primeiro desafio, ***Clique*** nos links abaixo, boa sorte!
+Para saber mais sobre a competição, ***inscrição*** e acessar o primeiro desafio, ***Clique*** nos links abaixo, boa sorte!
 
 - [📃 Sobre a competição](https://github.com/connectmindset/trainee-v0.1/wiki/%F0%9F%93%83-Sobre-a-competi%C3%A7%C3%A3o)
 - [📑 Descrição das vagas](https://github.com/connectmindset/trainee-v0.1/wiki/%F0%9F%93%91-Descri%C3%A7%C3%A3o-das-vagas)

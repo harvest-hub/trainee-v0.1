@@ -10,8 +10,7 @@ O primeiro desafio ***ocorrerá juntamente com a inscrição.***
 
 ### VAGAS:
 Três de nivel júnior, sendo uma para front e outro para back-end, ficando a terceira uma coringa, podendo ser uma das duas.
-
-
+___
 Para saber mais sobre a competição, ***inscrição*** e acessar o primeiro desafio, ***Clique*** nos links abaixo, boa sorte!
 
 - [🏢 Sobre a empresa](https://github.com/connectmindset/trainee-v0.1/wiki/%F0%9F%8F%A2-Sobre-a-empresa)

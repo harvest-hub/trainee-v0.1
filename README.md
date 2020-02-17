@@ -8,8 +8,10 @@ O primeiro desafio ***ocorrerá juntamente com a inscrição.***
 
 ***Obs:.*** Somente presencial e residentes ***em Cuiabá e Várzea Grande.***
 
-### VAGAS:
+### 📑 VAGAS:
 Três de nivel júnior, sendo uma para front e outro para back-end, ficando a terceira uma coringa, podendo ser uma das duas.
+
+📆 Os desafios só serão ***válidos*** se forem enviados ***até*** o último dia da inscrição no Sympla ***(29/02/2020)***.
 ___
 Para saber mais sobre a competição, ***inscrição*** e acessar o primeiro desafio, ***Clique*** nos links abaixo, boa sorte!
 

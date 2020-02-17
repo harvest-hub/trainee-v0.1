@@ -1,10 +1,16 @@
 # 🏆 1º Trainee Connect Mindset
 
-Um desafio prático, com mentorias, apoio técnico para que ***seu*** desenvolvimento, além do fornecimento de materiais diversos para o aprendizado e crescimento profissional.  
+Com a necessidade de expansão da nossa equipe, com o intuito de promover o desenvolvimento de novos profissionais e aquecer o nosso  mercado local, estamos em busca de três pessoas, sendo elas para vagas de entrada(júnior), que tenham vontade de  aprender e evoluir, se permitindo passar junto de nós aos desafios.
 
-A competição tem ***como*** objetivo, selecionar dois engenheiros de software junior, sendo um para front e outro para back-end, avaliados em duas etapas, a primeira ***ocorrerá juntamente com a inscrição.***
+Para alcançar esse objetivo, montamos uma seleção um pouco diferente, sendo um desafio prático, mas não se preocupe caso não souber tudo que a vaga pede, tenha ***coragem***, pois durante a competição irá ter ***mentorias***, ***apoio técnico***, ***fornecimento de materiais*** diversos para que aprenda e evolua durante a competição, podendo assim alcançar os conhecimentos ou até mais no decorrer da competição.
+
+O primeiro desafio ***ocorrerá juntamente com a inscrição.***
 
 ***Obs:.*** Somente presencial e residentes ***em Cuiabá e Várzea Grande.***
+
+### VAGAS:
+Três de nivel júnior, sendo uma para front e outro para back-end, ficando a terceira uma coringa, podendo ser uma das duas.
+
 
 Para saber mais sobre a competição, ***inscrição*** e acessar o primeiro desafio, ***Clique*** nos links abaixo, boa sorte!
 

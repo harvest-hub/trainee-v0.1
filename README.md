@@ -8,6 +8,7 @@ A competição tem ***como*** objetivo, selecionar dois engenheiros de software 
 
 Para saber mais sobre a competição, ***inscrição*** e acessar o primeiro desafio, ***Clique*** nos links abaixo, boa sorte!
 
+- [🏢 Sobre a empresa](https://github.com/connectmindset/trainee-v0.1/wiki/%F0%9F%8F%A2-Sobre-a-empresa)
 - [📃 Sobre a competição](https://github.com/connectmindset/trainee-v0.1/wiki/%F0%9F%93%83-Sobre-a-competi%C3%A7%C3%A3o)
 - [📑 Descrição das vagas](https://github.com/connectmindset/trainee-v0.1/wiki/%F0%9F%93%91-Descri%C3%A7%C3%A3o-das-vagas)
 - [📝 Inscrição completa](https://www.sympla.com.br/1-trainee-connect-mindset__780777)
